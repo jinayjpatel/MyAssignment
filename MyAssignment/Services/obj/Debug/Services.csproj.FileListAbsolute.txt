@@ -1,0 +1,6 @@
+D:\Sample Proj\Console App\MyAssignment\Services\bin\Debug\Services.dll
+D:\Sample Proj\Console App\MyAssignment\Services\bin\Debug\Services.pdb
+D:\Sample Proj\Console App\MyAssignment\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\Sample Proj\Console App\MyAssignment\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Sample Proj\Console App\MyAssignment\Services\obj\Debug\Services.dll
+D:\Sample Proj\Console App\MyAssignment\Services\obj\Debug\Services.pdb

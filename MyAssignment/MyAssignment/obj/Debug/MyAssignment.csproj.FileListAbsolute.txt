@@ -1,0 +1,11 @@
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\bin\Debug\MyAssignment.exe.config
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\bin\Debug\MyAssignment.exe
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\bin\Debug\MyAssignment.pdb
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\bin\Debug\Services.dll
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\bin\Debug\Services.pdb
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\obj\Debug\MyAssignment.csproj.AssemblyReference.cache
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\obj\Debug\MyAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\obj\Debug\MyAssignment.csproj.CoreCompileInputs.cache
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\obj\Debug\MyAssignment.csproj.CopyComplete
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\obj\Debug\MyAssignment.exe
+D:\Sample Proj\Console App\MyAssignment\MyAssignment\obj\Debug\MyAssignment.pdb
